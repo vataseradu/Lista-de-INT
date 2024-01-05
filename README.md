@@ -18,5 +18,5 @@ Acest program Java simulează o listă LIFO (Last In, First Out) cu o interfaț�
 
 
 
-assignment at the Faculty of Electrical Engineering UPB by   Anton DUCA, PhD. Associate Professor. </br>
+assignment at the Faculty of Electrical Engineering UPB from professor: Anton DUCA, PhD. Professor.</br>
 Bibliografie: https://play.google.com/store/books/details/Introducere_in_POO_cu_Java?id=lGEhEAAAQBAJ&hl=en_US&gl=US

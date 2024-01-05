@@ -7,6 +7,7 @@ Acest program Java simulează o listă LIFO (Last In, First Out) cu o interfaț�
 - Butonul "Șterge Element" elimină ultimul element adăugat la lista LIFO.
 - Butonul "Sortează Elemente INT" sortează elementele de tip întreg în ordine crescătoare.
 - JTextField permite utilizatorului să introducă date de la tastatură.
+- *programul are implementat si un audio file "le.wav" care nu este inclus.*
 
   
 ## Preview:
